@@ -1,0 +1,837 @@
+
+
+* {
+    padding: 0px;
+    border: 0px;
+}
+
+
+.page-container {
+    max-width: 1120px;
+    max-height: 1680px;
+    margin: 0 auto;
+    padding: 1px;
+}
+
+.page-container2 {
+    max-width: 1200px;
+    max-height: 1200px;
+    margin: 0 auto;
+    padding: 1px;
+}
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+body.Special-whiskey {
+    background-image: url("ZZWiskey.gif");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+
+/* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+
+
+h1{    
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+/* -------------------------------------------------- */
+.container_pageheading1home{
+    font-size:1.2rem;
+    color: gold;
+    text-shadow: 2px 2px 4px black;
+    font-family: Brush Script MT;
+}   
+    
+.container_pageheading2home{
+    font-size:1rem;
+    color: gold;
+    text-shadow: 2px 2px 4px black;
+    font-family: Copperplate, Papyrus, fantasy;
+}  
+
+.container_pageheading3home{
+    font-size:0.8rem;
+    color: gold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Brush Script MT;
+} 
+.container_pageheading4home{
+    font-size:0.6rem;
+    color: gold;
+    text-shadow: 2px 2px 4px black;
+    font-family: Copperplate, Papyrus, fantasy;
+} 
+
+.container_pageheading2cocktail{
+    font-size:1rem;
+    <div class="sr-only" style="color: gold; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); font-family: Copperplate, Papyrus, fantasy;">
+    <p>Welcome to Zi's website coursework section where I showcase my acquired skills and knowledge through a captivating picture slideshow featuring a total of 12 GIF images. You are invited to immerse yourself in this interactive slideshow, where you can explore and interact with the pictures while appreciating my dedication to this project. Thank you for joining me on this exciting journey of growth and exploration.</p>
+    <p>Hover over each picture to reveal a pop-up text box.</p>
+    <p>I hope the screen readers will announce the presence of the pictures. zi(jo)</p>
+</div>
+
+    
+}  
+
+.container_pageheading3cocktail{
+    font-size:0.8rem;
+    color: gold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    font-family: Copperplate, Papyrus, fantasy;
+    font-family: Brush Script MT;
+} 
+.container_pageheading4cocktail{
+    font-size:0.6rem;
+    color: gold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    font-family: Copperplate, Papyrus, fantasy;
+} 
+
+.container_pageheading2finger{
+    font-size:1rem;
+    color: gold;
+    text-shadow: 2px 2px 4px black;
+    font-family: Copperplate, Papyrus, fantasy;
+}  
+
+.container_pageheading3finger{
+    font-size:0.8rem;
+    color: gold;
+    text-shadow: 2px 2px 4px black;
+    font-family: Brush Script MT;
+} 
+.container_pageheading4finger{
+    font-size:0.6rem;
+    color: gold;
+    text-shadow: 2px 2px 4px black;
+    font-family: Copperplate, Papyrus, fantasy;
+} 
+
+.container_pageheading2prix{
+    font-size:1.rem;
+    font-family: Copperplate, Papyrus, fantasy;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+}  
+
+.container_pageheading3prix{
+    font-size:0.9rem;
+    font-family: Brush Script MT;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+} 
+.container_pageheading4prix{
+    font-size:0.6rem;
+    font-family: Copperplate, Papyrus, fantasy;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+} 
+.container_pageheading2chat{
+    font-size:1rem;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+    font-family: Copperplate, Papyrus, fantasy;
+}  
+
+.container_pageheading3chat{
+    font-size:0.8rem;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+    font-family: Brush Script MT;
+} 
+
+.container_pageheading4chat{
+    font-size:0.6rem;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+/* ************************************************** */
+/* ************************************************** */
+
+.container_pageheading3form{
+    font-size: 0.8rem;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: gold;
+    text-shadow: 1px 1px 2px black;
+    font-family: Brush Script MT;
+    
+} 
+
+.container_pageheading4form{
+    font-size: rem;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    color: gold;
+    text-shadow: 1px 1px 2px black;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.container_pageheadingcustomer{
+    font-size:0.9rem;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 4px silver;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+/* style="color: rgb(167, 142, 68); font-size: 45px; text-shadow: 1px 1px 2px black;">. */
+/* style="color: black; font-size: 30px; font-weight: bold; text-shadow: 2px 2px 4px silver;" */
+/* style="color: black; font-size: 25px; font-weight: bold; text-shadow: 2px 2px 4px silver;" */
+
+.container_pageheadinglocation{
+    font-size:0.6rem;
+    color: rgb(25, 24, 22);
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+    font-family: Copperplate, Papyrus, fantasy;
+    align-items: center;
+    text-align: center; 
+}  
+
+.shadowpg5 {
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1);
+    text-shadow: 1px 1px 5px rgb(8, 8, 8);
+}
+
+.text-shadow {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+}
+
+/* ************************************************** */
+/* ------------------------------------------------- */
+#main-footer_thanku3 {
+    font-size: 0.7rem;
+    color: rgb(220, 180, 60);
+    text-shadow: 2px 2px 4px silver;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+
+
+#main-footer_thanku5 {
+    font-size: 0.7rem;
+    color: rgb(220, 180, 60);
+    text-shadow: 2px 2px 4px silver;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#description_thanku3 {
+    font-size: 0.7rem;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(4, 4, 4);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+
+
+#description_thanku4 {
+    font-size: 0.7rem;
+    color: rgb(220, 180, 60);
+    text-shadow: 2px 2px 4px silver;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#description_thanku5 {
+    font-size: 0.7rem;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(4, 4, 4);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#description_thanku6 {
+    font-size: 0.7rem;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.container_pagefooterthanku5 {
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid black; /* I want to create a black line */
+}
+
+.container_pagefooterthanku3 {
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid black;
+    border: none;
+    display: flex;
+    justify-content: center;
+}
+.pagefootertext_box5 {
+    width: 750px;
+    border: none 3px solid;
+    padding-top: 0px;
+    margin: 0 auto; /* This is for the line to horizontally center the box */
+    text-align: center; /* This is for the line to center the content inside the box */
+    align-items: center;
+    font-size: 0.7rem; /* This is for the line to vertically center the content inside the box */
+}
+
+.pagefootertext_box3 {
+    width: 750px;
+    border: none 3px solid;
+    padding-top: 0px;
+    margin: 0 auto; /* This is for the line to horizontally center the box */
+    text-align: center; /* This is for the line to center the content inside the box */
+    align-items: center;
+    font-size: 0.7rem; /* This is for the line to vertically center the content inside the box */
+}
+
+#main-footer_thanku4 {
+    font-size: 1rem;
+    color: rgb(220, 180, 60);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#description_thanku4 {
+    font-size: 0.7rem;
+    color: rgb(220, 180, 60);
+    text-shadow: 2px 2px 4px silver;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.container_pagefooterthanku4 {                    
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid black;
+    border: none /* I want to create a black line */
+}
+
+.pagefootertext_box4 {
+    width: 750px;
+    border: none 3px solid;
+    padding-top: 0px;
+    margin: 0 auto; /* This is for the line to horizontally center the box */
+    text-align: center; /* This is for the line to center the content inside the box */
+    align-items: center;
+    font-size: 0.7rem /* This is for the line to vertically center the content inside the box */
+}
+
+#main-footer_thanku3 {
+    font-size: 0.7rem;
+    color: rgb(220, 180, 60);
+    text-shadow: 2px 2px 4px silver;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#description_thanku3 {
+    font-size: 0.7rem;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(4, 4, 4);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.container_pagefooterthanku3 {
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid black;
+    border: none;
+    align-items: center* I want to create a black line */
+}
+
+.pagefootertext_box3 {
+    width: 750px;
+    border: none;
+    border-top: 3px solid;
+    padding-top: 0px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 0.7rem;
+}
+
+
+#main-footer_thanku2 {
+    font-size: 1rem;
+    color: rgb(8, 8, 7);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#description_thanku2 {
+    font-size: 0.7rem;
+    color: rgb(2, 2, 2);
+    text-shadow: 2px 2px 4px silver;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.container_pagefooterthanku2 {
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid black;
+    border: none; /* I want to create a black line */
+}
+
+.pagefootertext_box2 {
+    width: 750px;
+    border: none 3px solid;
+    padding-top: 0px;
+    margin: 0 auto; /* This is for the line to horizontally center the box */
+    text-align: center; /* This is for the line to center the content inside the box */
+    align-items: center;
+    font-size: 0.7rem /* This is for the line to vertically center the content inside the box */
+}
+
+#main-footer_thanku1 {
+    font-size: 1rem;
+    color: rgb(8, 8, 7);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+#description_thanku1 {
+    font-size: 0.7rem;
+    color: rgb(2, 2, 2);
+    text-shadow: 2px 2px 4px silver;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+.container_pagefooterthanku1 {
+    text-align: center;
+    margin-top: 50px;
+    border-top: 1px solid black;
+    border: none; /* I want to create a black line */
+}
+
+.pagefootertext_box1 {
+    width: 750px;
+    border: none 3px solid;
+    padding-top: 0px;
+    margin: 0 auto; /* This is for the line to horizontally center the box */
+    text-align: center; /* This is for the line to center the content inside the box */
+    align-items: center;
+    font-size: 0.7rem /* This is for the line to vertically center the content inside the box */
+}
+/* ------------------------------------------------- */
+/* ------------------------------------------------- */
+
+
+.mynavagationbarhome {
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.5rem;
+}
+
+.mynavagationbar.containerhome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+}
+
+.container_mynavagationbarhome {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: rgb(191, 24, 24);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    
+}
+
+.mynavagationbarcocktail {
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.5rem;
+}
+
+.mynavagationbar.containercocktail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+}
+
+.container_mynavagationbarcocktail {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: gold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    
+}
+
+.mynavagationbarfinger {
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.5rem;
+}
+
+.mynavagationbar.containerfinger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+}
+
+.container_mynavagationbarfinger {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: gold;
+    text-shadow: 2px 2px 4px black;
+    
+}
+
+.mynavagationbarprix {
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.5rem;
+}
+
+.mynavagationbar.containerprix {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+}
+
+.container_mynavagationbarprix {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: gold;
+    text-shadow: 2px 2px 4px rgb(5, 4, 4);
+}
+
+.mynavagationbarchat {
+    display: flex; 
+    justify-content: space-around;
+    align-items: center;
+    font-size: 0.5rem;
+}
+
+.mynavagationbar.containerchat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+}
+
+.container_mynavagationbarchat {
+    font-family: Copperplate, Papyrus, fantasy;
+    color: gold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    
+}
+/* -------------------------------------------------- */
+/* %%%%%%%%%%%%%%%%%%%% */
+.page4text_box {
+    width: 650px;
+    border: none 3px solid;
+    padding-top: 0px;
+    margin: 0 auto; /* This is for the line to horizontally center the box */
+    text-align: center; /* This is for the line to center the content inside the box */
+    align-items: center;
+    font-size: 0.7rem; /* This is for the line to vertically center the content inside the box */
+}
+
+
+/* %%%%%%%%%%%%%%%%%%%%% */
+
+
+
+.container {
+    width: 600px;
+    text-align: center;
+}
+.mainheading_pageheading{
+
+}
+
+.pageheadingtext_box{ 
+    width: 500px; 
+    border: pink 3px solid;
+    padding-top: 0px;
+    align-content: space-around;
+}
+
+.pageheading-container{
+        padding: 0px;
+        border: pink 3px solid;
+        gap: 10px;
+        justify-content: space-between;
+        gap: -3rem;
+}
+
+/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
+/* New section for page 4 */
+
+li {
+    color: gold;
+    font-size: 1.2rem;
+    font-family: Copperplate, Papyrus, fantasy;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+p{
+    text-align: center;
+}
+
+.text-boxpuddingtitle {
+    border: 1px solid none;
+    background-color: none;
+    padding: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: gold;
+    font-size: 0.6rem;
+    font-family: Copperplate, Papyrus, fantasy;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.text-boxpuddingtitlejr {
+    color: gold;
+    font-size: 1rem;
+    font-family: Copperplate, Papyrus, fantasy;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    width: 580px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+
+.newpuddingimage-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.newpuddingsandwich_header {
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: gold;
+    margin-bottom: 10px;
+}
+
+.newpuddingsandwich_image {
+    max-width: 100%;
+    max-height: 100%;
+    margin-bottom: 10px;
+    width:250px ;
+    height:250px  ;
+}
+
+
+
+.newpuddingtext_box {
+    font-size: 0.7rem;
+    color: gold;
+    margin-bottom: 20px;
+    width: 250px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+.test {
+    display: flex;
+    flex-direction: row;
+    justify-content:center ;
+    align-content: center;
+    gap: 12rem;
+    position: center;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+/                       
+   
+.text-cocktailtitle {
+    border: 1px solid none;
+    background-color: none;
+    padding: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: gold;
+    font-size: 0.6rem;
+    font-family: Copperplate, Papyrus, fantasy;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.text-boxcocktailtitlejr {
+    color: gold;
+    font-size: 1rem;
+    font-family: Copperplate, Papyrus, fantasy;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    width: 580px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.text-boxcocktailtitle {
+    border: 1px solid none;
+    background-color: none;
+    padding: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: gold;
+    font-size: 0.6rem;
+    font-family: Copperplate, Papyrus, fantasy;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    
+}
+
+
+.container_pagefooterthanku2 {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+}
+
+.thanku_pagefooter5 {
+    text-align: center;
+}
+
+#main-footer_thanku2 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 1rem;
+    font-weight: bold;
+    color: gold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+
+/* CSS for the footer */
+.coctail-footer {
+    background-color: none;
+    padding: 20px;
+    text-align: center;
+    font-size: 0.6px;
+    color: gold;
+    text-shadow: 2px 2px 4px 
+}
+
+
+  /* +++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+  /* For my home page */
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    max-width: 1200px;
+    max-height: 1200px;
+    margin: 0 auto;
+    padding: 1px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.row {
+    display: flex;
+justify-content: center;
+}
+
+.picture {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    flex: none;
+}
+
+.picture img {
+    width: 100%;
+    height: 100%;
+}
+
+.hover-effect {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 190px;
+    height: 180px;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  .picture:hover .hover-effect {
+    opacity: 1;
+  }
+  
+  .image-container .popup-box {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: gold;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 999;
+  }
+  
+  .picture:hover .popup-box {
+    display: block;
+  }
+  
+
+
+  <div class="sr-only" style="color: gold; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); font-family: Copperplate, Papyrus, fantasy;">
+  <p>-This section  is for individual using screen reader- 
+    <br>
+    Welcome to Zi's website coursework section where I showcase my acquired skills and knowledge through a captivating picture slideshow featuring a total of 12 GIF images. You are invited to immerse yourself in this interactive slideshow, where you can explore and interact with the pictures while appreciating my dedication to this project. Thank you for joining me on this exciting journey of growth and exploration.</p>
+  <p>Hover over each picture to reveal a pop-up text box.</p>
+  <p>I hope the screen readers will announce the presence of the pictures. zi(jo)</p>
+</div>
+
+<div class="container_12pic">
+
+      <div class="picture">
+      <img src="./Veggie Club_Herbivores' Mighty Delight!.jpg" alt="Herbivores' Mighty Delight! Sandwich The veggie joint that turns carnivores into comedy fans! Their standout item, the Mighty Delight! Sandwich, is a tower of grilled tempeh, avocado, lettuce, tomato, and tangy vegan mayo. With hilarious veggie creations, they've made locals and visitors laugh and love their vegetarian dining experience!>
+      <div clas">
+        <div class="popup-box">
+          <p>Herbivores' Mighty Delight!: The veggie joint that turns carnivores into comedy fans! Their standout item, the Mighty Delight! Sandwich, is a tower of grilled tempeh, avocado, lettuce, tomato, and tangy vegan mayo. With hilarious veggie creations, they've made locals and visitors laugh and love their vegetarian dining experience!</p>
+       
+      <div <span class="sr-only">Herbivores' Mighty Delight!: The veggie joint that turns carnivores into comedy fans! Their standout item, the Mighty Delight! Sandwich, is a tower of grilled tempeh, avocado, lettuce, tomato, and tangy vegan mayo. With hilarious veggie creations, they've made locals and visitors laugh and love their vegetarian dining experience!</span>
+        <span class="visible-text">Herbivores' Mighty Delight!: The veggie joint that turns carnivores into comedy fans! Their standout item, the Mighty Delight! Sandwich, is a tower of grilled tempeh, avocado, lettuce, tomato, and tangy vegan mayo. With hilarious veggie creations, they've made locals and visitors laugh and love their vegetarian dining experience!</span></div>
+  </div> </div>
+  
+
+
+  <div class="image-container">
+    <img src="./Veggie Club_Herbivores' Mighty Delight!.jpg" alt="Herbivores' Mighty Delight! Sandwich: The veggie joint that turns carnivores into comedy fans! Their standout item, the Mighty Delight! Sandwich, is a tower of grilled tempeh, avocado, lettuce, tomato, and tangy vegan mayo. With hilarious veggie creations, they've made locals and visitors laugh and love their vegetarian dining experience!">
+    <div class="popup-box">
+      <p>Herbivores' Mighty Delight!: The veggie joint that turns carnivores into comedy fans! Their standout item, the Mighty Delight! Sandwich, is a tower of grilled tempeh, avocado, lettuce, tomato, and tangy vegan mayo. With hilarious veggie creations, they've made locals and visitors laugh and love their vegetarian dining experience!</p>
+    </div>
+ 
